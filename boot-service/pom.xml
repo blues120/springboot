@@ -118,7 +118,7 @@
         <!-- aliPay -->
         <dependency>
             <groupId>com.alipay.sdk</groupId>
-            <artifactId>alipay</artifactId>
+            <artifactId>alipay-sdk-java</artifactId>
             <version>${alipay-version}</version>
         </dependency>
         <!-- 消息队列 -->

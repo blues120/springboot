@@ -43,7 +43,7 @@
         <fastjson.version>1.2.20</fastjson.version>
         <rsa.version>1.45</rsa.version>
         <commons-io.version>2.2</commons-io.version>
-        <alipay-version>1.0</alipay-version>
+        <alipay-version>3.3.4.ALL</alipay-version>
         <druid-version>1.1.10</druid-version>
         <poi-verison>3.14</poi-verison>
         <httpclient-version>4.5.1</httpclient-version>
